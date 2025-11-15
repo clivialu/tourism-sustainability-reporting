@@ -14,17 +14,17 @@ This repository provides supporting materials and documentation for the paper *�
 
 This study looks at how tourism and hospitality companies report on their sustainability efforts and how accountable these industries truly are.  
 By reviewing sustainability and corporate responsibility reports, we analyze the extent, quality, and consistency of disclosures across organizations.  
-The study highlights significant variation in reporting practices — while many firms show growing interest in sustainability, standardized and transparent reporting frameworks are still underdeveloped.  
+The study highlights significant variation in reporting practices while many firms show growing interest in sustainability, standardized and transparent reporting frameworks are still underdeveloped.  
 The findings offer insights for policymakers, industry associations, and firms aiming to improve sustainability accountability in tourism.
 
 ## Paper Highlight: 
 | # | **Why it matters** | **What the paper delivers** |
 |---|--------------------|-----------------------------|
-| **1** | **Tourism lags far behind other sectors on accountability.** Investors and communities increasingly demand credible ESG data. | Finds that sustainability reporting in tourism “lags behind other industries” across global, Chinese and Indian samples and that only **7 %** of firms follow GRI guidelines versus 37 % of the Global 250 |
+| **1** | **Tourism lags far behind other sectors on accountability.** Investors and communities increasingly demand credible ESG data. | Finds that sustainability reporting in tourism “lags behind other industries” across global, Chinese and Indian samples and that only 7 % of firms follow GRI guidelines versus 37 % of the Global 250 |
 | **2** | **Air, Other Transport & Accommodation set the pace.** Benchmarking leaders helps peers focus effort. | Identifies these three sectors as the “most accountable” for website info, standalone reports and CDP responses. |
 | **3** | **Standards gap blocks progress.** Without sector-specific guidance, disclosure stays patchy. | Calls for “tourism sector-specific global reporting standards,” better monitoring and benchmarking networks; lack of such standards is named a “barrier” to reporting. |
 | **4** | **Industry is off-track on climate pledges.** WTTC & Davos commitments need measurable follow-through. | Concludes tourism firms are “not meeting the commitments of the Davos Declaration and the WTTC” on emissions reduction. |
-| **5** | **Institutional pressure shapes disclosure.** Emerging-market insights matter for global players. | Shows China’s mandatory-only compliance leaves tourism at **14 %** disclosure vs 68 % CSI 300 average, signalling low domestic stakeholder demand. |
+| **5** | **Institutional pressure shapes disclosure.** Emerging-market insights matter for global players. | Shows China’s mandatory-only compliance leaves tourism at 14 % disclosure vs 68 % CSI 300 average, signalling low domestic stakeholder demand. |
 
 ### Managerial Takeaways
 
